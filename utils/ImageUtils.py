@@ -20,4 +20,3 @@ def np_arr_to_cvimage(arr):
     """
     arr_rgb = cv2.cvtColor(arr, cv2.COLOR_BGR2RGB)
     return arr_rgb
-
